@@ -20,13 +20,13 @@ A Thin Mint Milkshake is chocolaty yet minty. Great to have as a dessert after a
 
 |Amount| Ingredient |
 |------|------------|
-|4 cookies | [Thin Mints][thin mints] |
-|1/2 Cup |  Vanilla Ice Cream |
-|1 Cup | Milk |
+|5 cookies | [Thin Mints][thin mints] |
+|1 Cup |  Vanilla Ice Cream |
+|1/3 Cup | Milk |
 
 ## Instructions
 
-Put all the ingredients in a blender and mix until it's a smooth mixture.
+Put 4 cookies and the rest of the ingredients in a blender and mix until it's a smooth mixture.
 
 Serve in a glass with a spoon and a straw. Top with whipped cream and a whole Thin Mint.
 
